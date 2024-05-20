@@ -3,4 +3,4 @@ plotly
 python_bcrypt
 streamlit
 streamlit_authenticator
-dotenv
+python-dotenv
