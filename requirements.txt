@@ -1,6 +1,6 @@
 openai
 plotly
-python_bcrypt
+bcrypt
 streamlit
 streamlit_authenticator
 python-dotenv
