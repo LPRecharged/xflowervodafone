@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     # --- USER AUTHENTICATION ---
 names = ["Peter Parker", "Rebecca Miller"]
-usernames = ["pparker", "rmiller"]
+usernames = ["bruno", "zsolt"]
 
 # load hashed passwords
 file_path = Path(__file__).parent / "hashed_pw.pkl"
